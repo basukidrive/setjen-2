@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3. Business Process Decomposition"
+    name="Business Process Decomposition"
     id="id-3ece7937bc28474ba3ed046b5cb01bde">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -52,7 +52,7 @@
         id="id-b481a3d724224f77879156dd50c5bda8"
         targetConnections="id-6c7137dc069046b2811671fb11c3aee5">
       <bounds
-          x="36"
+          x="648"
           y="60"
           width="169"
           height="55"/>
@@ -65,7 +65,7 @@
         id="id-fad8b8ebb6234f99a667d61dc22681f9"
         targetConnections="id-f08758c9df4d400c9848b42908e4a8f8">
       <bounds
-          x="240"
+          x="252"
           y="60"
           width="169"
           height="55"/>
@@ -78,7 +78,7 @@
         id="id-2f793d1795d64386b321b78ca07506ad"
         targetConnections="id-fea6486dd2184f4987c103841130b051">
       <bounds
-          x="444"
+          x="456"
           y="60"
           width="169"
           height="55"/>
@@ -91,10 +91,10 @@
         id="id-57553829a11648879dc047fc8bc4bf0c"
         targetConnections="id-5645bd5f5abc4b40a0f3b4aa34492bfa">
       <bounds
-          x="648"
+          x="48"
           y="60"
           width="169"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-a516ae84567b41eca85181c12ce85d0f.xml#id-a516ae84567b41eca85181c12ce85d0f"/>
