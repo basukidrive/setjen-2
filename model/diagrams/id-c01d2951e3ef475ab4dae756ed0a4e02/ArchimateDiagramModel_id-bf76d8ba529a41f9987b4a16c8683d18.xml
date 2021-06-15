@@ -200,4 +200,28 @@
         xsi:type="archimate:Driver"
         href="Driver_id-5a1d200074d7422e86785b4d009d12d9.xml#id-5a1d200074d7422e86785b4d009d12d9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-864b7072df26493e82fa48b5436562e2">
+    <bounds
+        x="60"
+        y="492"
+        width="132"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-4785617bb94b427da20f5eef46438f46.xml#id-4785617bb94b427da20f5eef46438f46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-aee3c749d5a74177be843500a00e0d1b">
+    <bounds
+        x="60"
+        y="564"
+        width="132"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-d6ec2a89015c4c1490492a2153d1d0f8.xml#id-d6ec2a89015c4c1490492a2153d1d0f8"/>
+  </children>
 </archimate:ArchimateDiagramModel>
