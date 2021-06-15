@@ -16,8 +16,8 @@
           href="FlowRelationship_id-098f3fec9f18467b87aaf39cc7752585.xml#id-098f3fec9f18467b87aaf39cc7752585"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="60"
+        x="300"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement
@@ -82,7 +82,8 @@
           href="FlowRelationship_id-5c6f21bc4d5647fc90c53e78f151ae96.xml#id-5c6f21bc4d5647fc90c53e78f151ae96"/>
     </sourceConnections>
     <bounds
-        y="528"
+        x="48"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
@@ -95,8 +96,8 @@
       name="Existing Application"
       textAlignment="1">
     <bounds
-        x="192"
-        y="180"
+        x="240"
+        y="144"
         width="400"
         height="140"/>
     <children
@@ -148,8 +149,8 @@
           href="FlowRelationship_id-86ea13d4e5e14deaa9c09085f4a0890f.xml#id-86ea13d4e5e14deaa9c09085f4a0890f"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="114"
+        x="444"
+        y="78"
         width="120"
         height="55"/>
     <archimateElement
@@ -162,8 +163,8 @@
       name="Data Pipeline"
       textAlignment="1">
     <bounds
-        x="192"
-        y="552"
+        x="240"
+        y="516"
         width="400"
         height="217"/>
     <children
@@ -255,8 +256,8 @@
           href="FlowRelationship_id-a503ea9ba60547b4bf84a8aef385a319.xml#id-a503ea9ba60547b4bf84a8aef385a319"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="336"
+        x="240"
+        y="300"
         width="400"
         height="181"/>
     <children
