@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1. Stakeholder Motivation"
-    id="id-bf76d8ba529a41f9987b4a16c8683d18"/>
+    id="id-bf76d8ba529a41f9987b4a16c8683d18">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e556cc811b32439f8665afbcb011ab6b">
+    <bounds
+        x="228"
+        y="36"
+        width="181"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-ef18db136ed6473191f0dd0563d4eb66.xml#id-ef18db136ed6473191f0dd0563d4eb66"/>
+  </children>
+</archimate:ArchimateDiagramModel>
