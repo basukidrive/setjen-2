@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3 Application Function Portfolio"
-    id="id-539b563a57034541831fbf9e94bfdcfe"/>
+    id="id-539b563a57034541831fbf9e94bfdcfe">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8f411b7379e4539a4c392da7e510bd3">
+    <bounds
+        x="72"
+        y="84"
+        width="517"
+        height="313"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-b96da010efb84a7195ee87c604be9e66.xml#id-b96da010efb84a7195ee87c604be9e66"/>
+  </children>
+</archimate:ArchimateDiagramModel>
