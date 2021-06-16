@@ -405,9 +405,9 @@
           id="id-2ba4c072d56a4823a14cadc1122809f6"
           targetConnections="id-59a334419274444fb9031b13450a06ba">
         <bounds
-            x="53"
+            x="48"
             y="84"
-            width="164"
+            width="169"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
